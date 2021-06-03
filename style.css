@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+}
+h1{
+    margin: 0px;
+    width: 100%;
+    font-size: 20px;
+}
+.footer{
+    text-align: center;
+    background-color: crimson;
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    font-size: 20px;
+    line-height: 3;
+}
+canvas{
+    border-radius: 4;
+    border:2px solid darkred  ;
+} 
